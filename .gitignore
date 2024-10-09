@@ -1,0 +1,20 @@
+# Ignore virtual environment
+myappvenv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore VSCode settings (if you use VSCode)
+.vscode/
+
+# Ignore environment variables or secrets (if you add them)
+.env
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.swp
+*.tmp
+
