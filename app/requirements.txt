@@ -1,0 +1,11 @@
+# Web framework for building the application
+Flask
+
+# Hugging Face library for language model integration
+transformers
+
+# PyTorch for managing deep learning models
+torch
+
+# spaCy for text preprocessing
+spacy
